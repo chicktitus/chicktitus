@@ -4,7 +4,7 @@
 [![porfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fkuzzify.web.app/)](https://kuzzify.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftituschick1&screen_name=codeSTACKr)
 
-## I'm a Freelance, Developer, and Teacher!!
+## I'm a Freelance, Frontend Developer, React Developer, and Wordpress Expert!
 
 - 🔭 Visit my portfolio to know more about my me [portfolio]!
 - 🌱 I’m currently learning everything 🤣
